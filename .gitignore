@@ -1,5 +1,4 @@
 /node_modules
-/exampleSite/public
-/exampleSite/hugo_stats.json
+/public
+/hugo_stats.json
 .DS_Store
-public/*
