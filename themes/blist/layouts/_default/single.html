@@ -14,6 +14,7 @@
     <h1 class="text-2xl font-bold mb-2">{{ .Title }}</h1>
 
     {{ .Content }}
+    {{ template "_internal/disqus.html" . }}
   </article>
 
   {{- partial "social.html" . -}}

@@ -3,6 +3,8 @@ languageCode = "en-US"
 baseurl = "/"
 title = "Food For Thought"
 
+disqusShortname = 'ffthought-1'
+
 [params]
   description = "Eating healthy matters"
   name = "Food For Thought"
