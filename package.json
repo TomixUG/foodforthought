@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "hugo --gc",
-    "dev": "hugo server --disableFastRender",
+    "dev": "hugo server",
     "build": "npm install && NODE_ENV=production hugo --gc"
   },
   "devDependencies": {
