@@ -30,8 +30,10 @@ disqusShortname = 'ffthought-1'
   photo = "/nature.jpg"
 
 [params.homepage.social]
-  title = "Eat, but healthy :)"
+  title = "This project wouldn't be possible without EEA grants"
   description = ""
+  photoDark = "/grantsDark.png"
+  photoLight = "/grantsLight.png"
 
 [[menu.main]]
   name = "About"
