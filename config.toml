@@ -4,6 +4,7 @@ baseurl = "/"
 title = "Food For Thought"
 
 disqusShortname = 'ffthought-1'
+googleAnalytics = "G-B3GGKQLF6R"
 
 [params]
   description = "Eating healthy matters"
