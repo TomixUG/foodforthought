@@ -49,4 +49,29 @@
 
 <head>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      let disqus = document.getElementById('disqus_thread');
+
+      let remove_ads = setInterval(() => {
+          let iframes = document.getElementsByTagName('iframe');
+
+          for (var iframe in iframes) {
+              if (typeof iframes[iframe].src === 'undefined') {
+                  continue;
+              }
+
+              if (iframes[iframe].src === "") {
+                  iframes[iframe].style.display = 'none';
+                  disqus.style.width = '100%';
+                  console.log("removed ad");
+              }
+          }
+      }, 500);
+
+      setTimeout(function () {
+          clearInterval(remove_ads);
+      }, 5000);
+  });
+  </script>
 </head>

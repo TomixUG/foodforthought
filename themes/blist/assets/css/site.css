@@ -2,6 +2,8 @@
 body {
   font-family: "Inter", sans-serif;
 }
+/* block Disqus ads */
+iframe[src*="ads-iframe"] { display: none; }
 
 /* Fonts */
 
