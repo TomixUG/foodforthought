@@ -40,10 +40,6 @@ googleAnalytics = "G-B3GGKQLF6R"
   name = "About"
   url = "/about"
 
-[[menu.main]]
-  name = "Forum"
-  url = "/forum"
-
 [build]
   writeStats = true
 
