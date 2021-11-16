@@ -3,5 +3,6 @@
 /hugo_stats.json
 .DS_Store
 /resources
+.hugo_build.lock 
 # Local Netlify folder
 .netlify
