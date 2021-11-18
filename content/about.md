@@ -1,5 +1,4 @@
 ---
-author: Katheryn Fox
 title: About us
 date: 2021-07-15
 description:
