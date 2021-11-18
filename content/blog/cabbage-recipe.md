@@ -1,13 +1,13 @@
 ---
-author: "TODO"
+author: "Adéla Petrová, Míša Lipková, Alex Řezníček"
 title: "Traditional Czech pickled cabbage"
 date: 2021-11-15
-description: "How to make traditional cabbage"
+description: "How to make traditional Czech cabbage"
 tags: []
 thumbnail: "/thumbnails/cabbage-recipe.jpg"
 hovertitle: "Author of this photo: https://www.flickr.com/photos/wheatfields/"
 ---
 
-Hello guys here you can see how to make traditional Czech pickled cabbage
+How to make traditional Czech cabbage
 
 {{< youtube PKNPIqXTmxQ >}}
