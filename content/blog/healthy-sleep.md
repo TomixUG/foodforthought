@@ -5,6 +5,7 @@ date: 2021-11-17
 description: "Sleep is a necessity for our life"
 tags: []
 thumbnail: "/thumbnails/healthy-sleep.png"
+hovertitle: "Author of this photo: www.freepik.com"
 ---
 
 Sleep is a necessity for our life. We spend almost one-third of our life in sleep. Our sleeping patterns influence our mental health, our behaviours, our memory, and creativity. For example, the range for an adult is 6-8 hours per night. For teens, it is 8-10 hours per night. Babies, it is 17 hours per night. But this information might not be for everybody. We all have different genetics and type of styles we live by so someone may thrive on a different sleep pattern than the other. And because of that, I made a list of things that could help you to set your healthy sleeping pattern.
