@@ -35,7 +35,7 @@ Try to stay away from caffeine in the evening. Also, try not to go to bed too dr
 Create a routine that will make you feel relaxed and will help you to go to sleep.
 
 <br>
-Note: If you think that you suffer from a sleep disease, talk to your doctor first.
+<ins>Note:</ins> If you think that you suffer from a sleep disease, talk to your doctor first.
 
 ## Sources
 - https://www.sleepfoundation.org/sleep-hygiene/what-is-healthy-sleep
