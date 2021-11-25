@@ -5,7 +5,6 @@ date: 2021-11-17
 description: "Traditional pastry from Štramberk"
 tags: []
 thumbnail: "/thumbnails/stramberske-usi.jpeg"
-hovertitle: "Author of this photo: https://cs.wikipedia.org/wiki/Wikipedista:Manka"
 ---
 
 Štramberské uši are traditional pastry from Štramberk, town located ca. 12 kilometers from Frenštát pod Radhoštěm. The most interesting part about them is their history. Štramberské uši have been baked in Štramberk nearly 800 years and the name means literally ‘Štramberk ears’.
