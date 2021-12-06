@@ -1,5 +1,5 @@
 ---
-author: "Malíková Catherine Michelle, Jašková Magdalena"
+author: "Catherine Malíková, Jašková Magdalena"
 title: "Rather local"
 date: 2021-12-04
 description: "Local food"
