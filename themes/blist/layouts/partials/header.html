@@ -7,14 +7,12 @@
     {{ range .Site.Menus.main }}
       <li>
           <a href="https://forms.office.com/Pages/AnalysisPage.aspx?id=oG6cAea7vU-SP7S-pqVrzmA_As3NNQ9ClWf_a2PMKqZUMTBFOTNESkxLMEUzN09QWVhHRzhQUEdRTy4u&AnalyzerToken=X5AZ0fZZXTHPP9hr2LeSHMA3xYtc2ovr" class="bg-gradient-to-r from-purple-300 to-red-300 rounded p-1 animate-bounce dark:from-purple-500 dark:to-red-400">Survey results</a>
-          <a href="{{ .URL }}">{{ .Name }}</a>
       </li>
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
     {{ end }}
 
     {{ range .Site.Sections }}
-      <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
 
     {{ if .Site.Params.enableSearch }}
