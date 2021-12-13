@@ -1,3 +1,7 @@
+* {
+    transition: 500ms background-color;
+}
+
 /* Custom Styles */
 body {
   font-family: "Inter", sans-serif;
