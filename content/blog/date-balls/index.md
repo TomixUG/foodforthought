@@ -50,8 +50,7 @@ Dates are an important source of carbohydrates, vitamin A and vitamins B1, B2, B
 - reduces the side effects of antibiotics  
 - natural source of tryptophan (amino acid)
 
-![](/images/date-balls/1.png)
-![](/images/date-balls/2.png)
+![](/images/date-balls/balls.png)
 
 ### Recipe for date balls
 
@@ -93,4 +92,4 @@ nuts)- I used <u>sunflower seeds, flaxseed, sesame seeds</u>, almonds und grated
 - **Cocoa** contains a lot of valuable substances, vitamins, minerals that help against fatigue, increased fever, emaciation, sore throat, heart problems, anemia, intestinal and kidney problems or respiratory problems. Cocoa also helps prevent the oxidation of LDL cholesterol, ie bad cholesterol by free radicals. It has an anti-inflammatory effect.  It contains the stimulant, which is stimulating, phenylethylamine - helps with depression, and tryptophan, otherwise called a good mood hormone. 
 
 
-{{< video src="date-balls" >}}
+{{< youtube xC62H2yM5Ys >}}

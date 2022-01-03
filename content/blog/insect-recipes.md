@@ -1,7 +1,7 @@
 ---
 author: "Jílek Matyáš"
 title: "Insect recipes"
-date: 2021-12-18
+date: 2021-12-18T16:12:29.000Z
 description: "A few insect recipes"
 tags: []
 thumbnail: "/thumbnails/insect-recipes.jpg"
