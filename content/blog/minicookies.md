@@ -1,5 +1,5 @@
 ---
-author: "Adéla Špačková, Kateřina Gilarová"
+author: "Adéla Špačková"
 title: "Oat-flakes minicookies"
 date: 2022-01-09
 description: "Recipe"
