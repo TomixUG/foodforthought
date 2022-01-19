@@ -1,14 +1,17 @@
 <div class="{{ .Site.Params.ascentColor | default "bg-pink-50" }} dark:bg-gray-900">
-  <div class="container px-6 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-    <div>
-      <div class="text-2xl  mb-2">{{ .Site.Params.homepage.social.title }}</div> <!-- removed "font-bold" from class-->
-      <p class="opacity-60">{{ .Site.Params.homepage.social.description }}</p>
+  <div class="container px-6 py-12 mx-auto max-w-6xl grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+    <div id="grants">
+      {{/*  <div class="text-2xl  mb-2">{{ .Site.Params.homepage.social.title }}</div> <!-- removed "font-bold" from class-->  */}}
+      {{/*  <p class="opacity-60">{{ .Site.Params.homepage.social.description }}</p>  */}}
+      
+      <div class="opacity-6 mb-9">Projekt <b>EHP-CZ-MOP-3-008</b> získal grant ve výši 1 726 140 Kč z <b>Fondů EHP 2014-2021</b>, programu <b>Vzdělávání</b>, které jsou financované Islandem, Lichtenštejnskem a Norskem.</div> 
+      <div class="opacity-6">The <b>EHP-CZ-MOP-3-008</b> project received a grant of 1 726 140 Kč from the <b>EHP 2014-2021 funds</b>, the <b>education program</b>, which are funded by Iceland, Liechtenstein and Norway.</div> 
     </div>
     <ul class="flex justify-center gap-4">
       <!-- funds logo -->
       <a href="https://eeagrants.org/" target="_blank">
-        <img class="block dark:hidden" src="{{ .Site.Params.homepage.social.photoDark }}" />
-        <img class="hidden dark:block" src="{{ .Site.Params.homepage.social.photoLight }}"/>
+        <img class="block dark:hidden max-w-xs" src="{{ .Site.Params.homepage.social.photoDark }}" />
+        <img class="hidden dark:block max-w-xs" src="{{ .Site.Params.homepage.social.photoLight }}"/>
       </a>
       {{ with .Site.Params.homepage.social.twitter }}
       <li>
