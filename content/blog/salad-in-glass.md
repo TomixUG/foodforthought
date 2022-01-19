@@ -35,10 +35,9 @@ thumbnail: "/thumbnails/salad-in-glass.jpeg"
 5. Shake before consuption to mix the ingredients together.
 
 ## Njóttu máltíðarinnar!
+![](/images/salad-in-glass/image3.jpeg#center)
 ### 1 portion contains:
 - 285 kcal
 - 28 g carbohydrates
 - 10 g fat
 - 19 g proteins
-
-![](/images/salad-in-glass/image3.jpeg#center)
