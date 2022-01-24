@@ -53,3 +53,6 @@ googleAnalytics = "G-B3GGKQLF6R"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        title = true 
