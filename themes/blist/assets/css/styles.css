@@ -36,3 +36,12 @@ img[src$='#floatright']
 .noBold{
     font-weight: normal !important;
 }
+
+.textCenter {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin: 0.7rem auto;
+}
