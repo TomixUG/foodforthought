@@ -1,5 +1,5 @@
 ---
-author: "Adam Vaněk"
+author: "Adam Vaněk, Antonín Jiříček"
 title: "Package free store"
 date: 2022-01-18
 description: "Take a look inside of a package free store"
