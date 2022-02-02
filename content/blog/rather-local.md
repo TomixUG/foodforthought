@@ -20,4 +20,4 @@ As we all know, making anything travel leaves an inevitable strain on our enviro
 ### Tradition
 And inevitably, the shift towards imported goods makes it hard for a lot of small local businesses to compete. So, deciding to consume what we naturally have in our country not only helps keep the deep-rooted traditions of crop farming thriving, but also gives us a chance to be nicer to our bodies. Giving it what naturally grows in the area we live in.
 
-{{< video src="rather-local" >}}
+{{< youtube QcN4YbV4j1s >}}
