@@ -10,7 +10,7 @@ hovertitle: "Author of this photo: https://www.diabetes.co.uk/"
 ### What is BMI (Body Mass Index)?
 It's a value taken from a person’s height and weight
 
-It determines if you are **underwight**, **healthy** or **obese**.
+It determines if you are **underweight**, **healthy**,or **obese**.
 
 ### How to calculate BMI?
 BMI is calculated with this formula: {{< bmiFormula >}}
@@ -49,9 +49,9 @@ If you are underweight, you may develop:
 - Osteoporosis
 
 ### But BMI isn't always the best indicator of health
-The more body fat you have, the higher your health risk. However BMI cannot differentiate between **body fat** and **muscle weight**.
+The more body fat you have, the higher your health risk. However, BMI cannot differentiate between **body fat** and **muscle weight**.
 
-Also the result is not suitable for childern and adolescents.
+Also, the result is not suitable for children and adolescents.
 
 ### How to reduce your BMI?
 1. Set a realistic goal
@@ -59,6 +59,6 @@ Also the result is not suitable for childern and adolescents.
 3. Weigh yourself regularly to figure out what’s working
 4. Get moving with a workout
 5. Set workout targets
-6. Make a propper diet
+6. Make a proper diet
 7. Stay consistent, even if you aren’t seeing results right away
 

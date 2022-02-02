@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script
+      src="https://unpkg.com/react@17/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  </head>
+  <body>
+    <div id="mydiv"></div>
+
+    <script type="text/babel">
+      function Default() {
+        const [gender, setGender] = React.useState("male");
+        const [height, setHeight] = React.useState();
+        const [weight, setWeight] = React.useState();
+        const [age, setAge] = React.useState();
+        const [activityLevel, setActivityLevel] = React.useState();
+
+        const [bmr, setBmr] = React.useState();
+        const [multiplier, setMultiplier] = React.useState(1.2);
+
+        function submited(event) {
+          event.preventDefault();
+          //console.log({weight: weight, height: height, age: age})
+          if (gender === "male") {
+            setBmr(10 * weight + 6.25 * height - 5 * age + 5);
+          } else {
+            setBmr(10 * weight + 6.25 * height - 5 * age - 161);
+          }
+
+          if (activityLevel === "sedentary") {
+            console.log("sedentary");
+            setMultiplier(1.2);
+          } else if (activityLevel === "light") {
+            console.log("light");
+            setMultiplier(1.375);
+          } else if (activityLevel === "moderate") {
+            console.log("moderate");
+            setMultiplier(1.55);
+          } else if (activityLevel === "very") {
+            console.log("very");
+            setMultiplier(1.725);
+          } else if (activityLevel === "super") {
+            console.log("super");
+            setMultiplier(1.9);
+          }
+          console.log(bmr);
+        }
+
+        function sGender(e) {
+          setGender(e.target.value);
+        }
+        function sHeight(e) {
+          setHeight(e.target.value);
+        }
+        function sWeight(e) {
+          setWeight(e.target.value);
+        }
+        function sAge(e) {
+          setAge(e.target.value);
+        }
+        function sActivityLevel(e) {
+          setActivityLevel(e.target.value);
+        }
+        return (
+          <div className="my-1 m-auto w-3/5">
+            <form class="mt-6" onSubmit={submited}>
+              <div>
+                <label class="block text-gray-700">Gender</label>
+                <select
+                  class="h-14	w-full px-4 py-3 rounded-lg  mt-2 border bg-white focus:border-blue-500 focus:bg-white focus:outline-none"
+                  value={gender}
+                  onChange={sGender}
+                >
+                  <option value="male">Male</option>
+                  <option value="female">Female</option>
+                </select>
+              </div>
+              <div class="mt-4">
+                <label class="block text-gray-700">Height (cm)</label>
+                <input
+                  type="number"
+                  placeholder="Enter your height"
+                  class="w-full px-4 py-3 rounded-lg  mt-2 border focus:border-blue-500 focus:bg-white focus:outline-none"
+                  onChange={sHeight}
+                  required
+                />
+              </div>
+              <div class="mt-4">
+                <label class="block text-gray-700">Weight (kg)</label>
+                <input
+                  type="number"
+                  placeholder="Enter your weight"
+                  class="w-full px-4 py-3 rounded-lg  mt-2 border focus:border-blue-500
+                focus:bg-white focus:outline-none"
+                  onChange={sWeight}
+                  required
+                />
+              </div>
+              <div class="mt-4">
+                <label class="block text-gray-700">Age</label>
+                <input
+                  type="number"
+                  placeholder="Enter your age"
+                  class="w-full px-4 py-3 rounded-lg  mt-2 border focus:border-blue-500
+                focus:bg-white focus:outline-none"
+                  onChange={sAge}
+                  required
+                />
+              </div>
+
+              <div class="mt-4">
+                <label class="block text-gray-700">Activity level</label>
+                <select
+                  class="h-14	w-full px-4 py-3 rounded-lg  mt-2 border bg-white focus:border-blue-500 focus:bg-white focus:outline-none"
+                  value={activityLevel}
+                  onChange={sActivityLevel}
+                >
+                  <option value="sedentary">Sedentary</option>
+                  <option value="light">Light active</option>
+                  <option value="moderate">Moderately active</option>
+                  <option value="very">Very active</option>
+                  <option value="super">Super active</option>
+                </select>
+              </div>
+              <button
+                type="submit"
+                class="w-full block bg-indigo-500 hover:bg-indigo-400 focus:bg-indigo-400 text-white font-semibold rounded-lg
+              px-4 py-3 mt-6"
+              >
+                Calculate
+              </button>
+            </form>
+
+            {bmr ? (
+              <div>
+                <p class="text-3xl text-center">
+                  BMR ={" "}
+                  <span class="text-green-600">
+                    <b>{bmr}</b>
+                  </span>{" "}
+                  Calories/day
+                  <div class="m-5"></div>
+                  You need{" "}
+                  <span class="text-red-600">
+                    <b>
+                      {Math.round((bmr * multiplier + Number.EPSILON) * 100) /
+                        100}
+                    </b>
+                  </span>{" "}
+                  Calories/day
+                </p>
+              </div>
+            ) : null}
+          </div>
+        );
+      }
+
+      ReactDOM.render(<Default />, document.getElementById("mydiv"));
+    </script>
+  </body>
+</html>
