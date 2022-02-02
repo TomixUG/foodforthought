@@ -10,7 +10,7 @@ hovertitle: "Author of this photo: https://www.diabetes.co.uk/"
 ### What is BMI (Body Mass Index)?
 It's a value taken from a person’s height and weight
 
-It determines if you are **underweight**, **healthy**,or **obese**.
+It determines if you are **underweight**, **healthy**, or **obese**.
 
 ### How to calculate BMI?
 BMI is calculated with this formula: {{< bmiFormula >}}
