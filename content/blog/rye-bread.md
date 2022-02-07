@@ -4,7 +4,7 @@ title: "Rye sourdough bread"
 date: 2022-01-31
 description: "Rye bread making video"
 tags: []
-thumbnail: "/thumbnails/rye-bread.png"
+thumbnail: "/thumbnails/rye-bread.jpg"
 ---
 In this video, we made rye bread. A healthy addition to anyone’s diet.
 

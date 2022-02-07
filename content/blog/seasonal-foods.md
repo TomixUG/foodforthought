@@ -9,7 +9,7 @@ thumbnail: "/thumbnails/seasonal-foods.jpg"
 
 ## Why and what seasonal foods to consume!
 Do you care to eat healthy and only quality food? The easiest way to achieve this is to focus on seasonal production. This will bring you closer to the diet that is natural for us and provide the body with the nutrients it needs at that time. At present, however, we have almost disconnected from the agricultural cycle, especially in the cities, so we have prepared an overview that will make it easier for you to find your way around your food according to the seasons.
-![](/images/seasonal-foods/1.png#center)
+![](/images/seasonal-foods/1.jpg#center)
 
 ## Spring
 The spring months are preparing for summer, and the production of fresh vegetables and fruits is beginning to expand in the markets and gardens, and there is still something to look forward to.
@@ -44,7 +44,7 @@ The spring months are preparing for summer, and the production of fresh vegetabl
 - **May: -**  
 - **June: -** 
 
-![](/images/seasonal-foods/apples.png#center)
+![](/images/seasonal-foods/apples.jpg#center)
 
 ## Summer
 In the summer months, in good conditions, there is literally a whirlwind of fruit and vegetables. Markets are flooded with sweet fruit and beautifully ripe vegetables, so the choice is the most of all months. That's why you should also think about winter food supplies in the summer - buy (or collect) more from various fruits and vegetables, store them sliced ​​in the freezer or cook. In winter, a more limited menu will brighten you up and brighten up the gray days. 
@@ -102,7 +102,7 @@ Many people think that in the fall, according to seasonality, almost nothing sho
 - **November:** pears, apples  
 - **December:** pears, apples 
 
-![](/images/seasonal-foods/pumpkin.png#center)
+![](/images/seasonal-foods/pumpkin.jpg#center)
 
 ## Winter
 In winter, enjoy the root vegetables that warm and saturate best. Winter vegetables have a full taste, which is best manifested after laying down. So don't be afraid to cook larger portions and store them in the fridge, for example, on weekdays. Process stored summer fruits gradually and preferably as warm desserts - fruit cakes, muffins or hot toppings are the best use that will enliven the limited winter diet. 

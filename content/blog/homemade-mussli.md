@@ -4,7 +4,7 @@ title: "Easy homemade müssli"
 date: 2022-02-01
 description: "Recipe"
 tags: []
-thumbnail: "/thumbnails/homemade-mussli.png"
+thumbnail: "/thumbnails/homemade-mussli.jpg"
 ---
 Homemade müssli from real ingredients. It crunches nicely and tastes good to the whole family, keep it in a few glasses and you always have a quick breakfast and snack at hand. It is also suitable as a decoration for various baked and unbaked desserts.
 
@@ -27,6 +27,6 @@ Then allow to cool completely and transfer to glasses. Store in a pantry and con
  &#8902; I do not use flaxseed in the mixture, I grind it into the porridge fresh just before consumption. If we do not test the packaging of unground seed, our digestive tract is not able to disrupt it, so we will not get to its healthy fats and other substances. At the same time, it is not advisable to grind it in advance, because its prized fats oxidize quickly in the air and a healthy one becomes "rancid" and unhealthy. Therefore, grind the seed in a grinder or grind it in a mortar just before consumption.
 
 
-![](/images/homemade-mussli/1.png#center)
+![](/images/homemade-mussli/1.jpg#center)
 
 {{< youtube xDOe9QY-Qpw >}}

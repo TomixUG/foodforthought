@@ -4,7 +4,7 @@ title: "Chickpeas in yellow curry sauce"
 date: 2022-02-01
 description: "Recipe"
 tags: []
-thumbnail: "/thumbnails/chickpeas-in-sauce.png"
+thumbnail: "/thumbnails/chickpeas-in-sauce.jpg"
 ---
 You will definitely fall in love with this curry chickpeas! It is good for the colder season, because the curry will warm you up perfectly.
 
@@ -43,7 +43,7 @@ In this article you will also find why curry and chickpeas are beneficial for ou
 
 ### Chickpea benefits
 The high popularity of chickpeas is not surprising. In addition to the pleasant nutty taste and wide use in the kitchen, these seeds of the plant called chickpea ram are also very beneficial to health. Legumes are generally considered healthy. But chickpeas are a little better. Compared to other legumes, it contains a larger amount of essential amino acids, such as lysine, isoleucine or tryptophan. In addition, chickpeas also contain beneficial unsaturated fatty acids, in particular oleic acid and linoleic acid. Of the vitamins, this legume boasts vitamin B1, B2, B3, B9 and beta-carotene. And important minerals such as calcium, magnesium, phosphorus, potassium and zinc must not be forgotten.
-![](/images/chickpeas-in-sauce/1.png#center)
+![](/images/chickpeas-in-sauce/1.jpg#center)
 
 ### Curry benefits
 Curry is a mixture of spices with a bright golden color and a complex taste. It is usually made from turmeric, coriander, cumin, fenugreek and chili peppers. It can also be supplemented with ginger, black pepper, mustard seeds, curry leaves and fennel seeds. Curry can offer a variety of health benefits due to the fact that it contains many healthy types of spices.
@@ -58,4 +58,4 @@ Curry is a mixture of spices with a bright golden color and a complex taste. It 
 8. ANTIFUNGAL AND ANTIBACTERIAL PROPERTIES
 9. CAN PROMOTE DIGESTIVE HEALTH
 
-![](/images/chickpeas-in-sauce/2.png#center)
+![](/images/chickpeas-in-sauce/2.jpg#center)

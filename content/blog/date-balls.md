@@ -13,7 +13,7 @@ While dates are basically dried fruit and relatively high in sugar, they are a n
 
 Dates are an important source of carbohydrates, vitamin A and vitamins B1, B2, B3, B6, B9, E and K. They contain 23 amino acids and a relatively large amount of minerals such as potassium, chlorine, phosphorus and calcium, as well as trace elements copper, manganese and zinc. Fresh dates also contain vitamin C, dried dates iron.
 
-![](/images/date-balls/dates.png#center)
+![](/images/date-balls/dates.jpg#center)
 
 ### Dates and their effects on health:
 
@@ -52,7 +52,7 @@ Dates are an important source of carbohydrates, vitamin A and vitamins B1, B2, B
 - reduces the side effects of antibiotics
 - natural source of tryptophan (amino acid)
 
-![](/images/date-balls/balls.png#center)
+![](/images/date-balls/balls.jpg#center)
 
 ### Recipe for date balls
 

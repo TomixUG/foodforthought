@@ -4,7 +4,7 @@ title: "Fluid intake"
 date: 2022-01-09
 description: "Sufficient water drinking is very important"
 tags: []
-thumbnail: "/thumbnails/fluid-intake.png"
+thumbnail: "/thumbnails/fluid-intake.jpg"
 hovertitle: "Author of this photo: https://www.latuadietapersonalizzata.it/2021/05/03/bere-lacqua-fa-dimagrire-si-ma-solo-se-la-bevi-allora-giusta/"
 ---
 
@@ -16,4 +16,4 @@ To sum up, clear water is the best option, and better used to drink for health b
 
 Of course, it's possible to drink all of the beverages in an adequate amount. You know how they say, nothing must be overdone.
 
-![](/images/fluid-intake/text.png#center)
+![](/images/fluid-intake/text.jpg#center)

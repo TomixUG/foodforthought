@@ -4,7 +4,7 @@ title: "Health effect"
 date: 2021-12-09
 description: "Food and it's effect on health"
 tags: []
-thumbnail: "/thumbnails/health-effect.png"
+thumbnail: "/thumbnails/health-effect.jpg"
 hovertitle: "Author of this photo: https://www.vecteezy.com/free-vector/fresh-food"
 ---
 Do you have any health problems? In this article, we will learn which foods have an effect on health.

@@ -4,7 +4,7 @@ title: "Healthy sleep pattern"
 date: 2021-11-17
 description: "Sleep is a necessity for our life"
 tags: []
-thumbnail: "/thumbnails/healthy-sleep.png"
+thumbnail: "/thumbnails/healthy-sleep.jpg"
 hovertitle: "Author of this photo: www.freepik.com"
 ---
 

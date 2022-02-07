@@ -4,7 +4,7 @@ title: "The threat of vitamin D deficiency"
 date: 2022-02-04
 description: "Rising numbers of vitamin D deficiency and its role within the pandemic"
 tags: []
-thumbnail: "/thumbnails/vitamin-d-deficiency.png"
+thumbnail: "/thumbnails/vitamin-d-deficiency.jpg"
 ---
 ### Vitamin D, why is going outside so important?
 

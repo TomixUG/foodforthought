@@ -4,7 +4,7 @@ title: "Curd bars"
 date: 2022-01-09
 description: "Recipe"
 tags: []
-thumbnail: "/thumbnails/curd-bars.png"
+thumbnail: "/thumbnails/curd-bars.jpg"
 ---
 ### <u>Ingredients:</u>
 - 250 g flour
@@ -14,16 +14,16 @@ thumbnail: "/thumbnails/curd-bars.png"
 - cheese, blue cheese (Roquefort), spice (e. g. pizza spice or Oregano), poppy, …
 - 1 egg for coating
 
-![](/images/crud-bars/ingredients.png)
+![](/images/crud-bars/ingredients.jpg)
 
 ### <u>Directions:</u>
 1. Heat the oven to 175 degrees Celsius.
 2. Mix all ingredients together and knead the dough by hands.
 3. Sprinkle the dough with flour and roll the dough (approx 0,5 centimeters high).
 4. Then create bars.
-![](/images/crud-bars/1.png#center)
+![](/images/crud-bars/1.jpg#center)
 5. Brush the bars with the beaten egg and sprinkle with what you want. You can use spice, blue cheese or poppy (like me – I used our local poppy).
-![](/images/crud-bars/2.png#center)
+![](/images/crud-bars/2.jpg#center)
 6. Lay the bars on a baking paper. You can put the bars close to each other. They don‘t have a tendency to melt.
 7. Bake for about 15 minutes, until the bars are pinkish.
 

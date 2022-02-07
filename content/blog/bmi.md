@@ -4,7 +4,7 @@ title: "BMI"
 date: 2022-02-01
 description: "Body mass index"
 tags: []
-thumbnail: "/thumbnails/bmi.png"
+thumbnail: "/thumbnails/bmi.jpg"
 hovertitle: "Author of this photo: https://www.diabetes.co.uk/"
 ---
 ### What is BMI (Body Mass Index)?

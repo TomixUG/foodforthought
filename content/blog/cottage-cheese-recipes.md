@@ -4,13 +4,13 @@ title: "How to serve cottage cheese?"
 date: 2022-02-04
 description: "Cottage cheese recipes"
 tags: []
-thumbnail: "/thumbnails/cottage-cheese-recipes.png"
+thumbnail: "/thumbnails/cottage-cheese-recipes.jpg"
 ---
 There is an [article](/blog/cottage-cheese/) about  cottage cheese on our website. But do you know how to serve it? There are
 3 types for inspiration.
 
 ## 1) Apple and cinnamon cottage bowl {.textCenter}
-![](/images/cottage-cheese-recipes/1.png#center)
+![](/images/cottage-cheese-recipes/1.jpg#center)
 ### <u>Ingredients</u>
 - ½ apple
 - ½ cup cottage cheese
@@ -31,7 +31,7 @@ There is an [article](/blog/cottage-cheese/) about  cottage cheese on our websit
 - 7,7 g fat
 
 ## 2) Cottage pancakes {.textCenter}
-![](/images/cottage-cheese-recipes/2.png#center)
+![](/images/cottage-cheese-recipes/2.jpg#center)
 ### <u>Ingredients</u>
 * 120 g cottage cheese
 * 50 g oat-flakes
@@ -53,7 +53,7 @@ There is an [article](/blog/cottage-cheese/) about  cottage cheese on our websit
 * 12,5 g fat
 
 ## 3) Cottage tzatziki {.textCenter}
-![](/images/cottage-cheese-recipes/3.png#center)
+![](/images/cottage-cheese-recipes/3.jpg#center)
 ### <u>Ingredients</u>
 * 200 g cottage cheese
 * 75 g grated cucumber

@@ -4,7 +4,7 @@ title: "Meatloaf of zucchini"
 date: 2022-01-09
 description: "Recipe"
 tags: []
-thumbnail: "/thumbnails/meatloaf-of-zucchini.png"
+thumbnail: "/thumbnails/meatloaf-of-zucchini.jpg"
 ---
 ### <u>Ingredients:</u>
 - 800g coarsely grated zucchini
@@ -20,13 +20,13 @@ thumbnail: "/thumbnails/meatloaf-of-zucchini.png"
 - teaspoon seasoning mixture
 - green parsley
 
-![](/images/meatloaf-of-zucchini/ingredients.png)
+![](/images/meatloaf-of-zucchini/ingredients.jpg)
 
 ### <u>Directions:</u>
 We prepare a mixture from the prepared ingredients. We bake for about half an hour in a greased and crumbled baking dish.
 
-![](/images/meatloaf-of-zucchini/1.png#center)
-![](/images/meatloaf-of-zucchini/2.png)
+![](/images/meatloaf-of-zucchini/1.jpg#center)
+![](/images/meatloaf-of-zucchini/2.jpg)
 
 
 ### ENJOY!

@@ -11,7 +11,7 @@ I would like to introduce this recipe to you, because it is very simple and also
 
 I chose oatmeal because they are very beneficial for us in various ways.
 
-![](/images/oatmeal-cookies/oatmeal.png#center)
+![](/images/oatmeal-cookies/oatmeal.jpg#center)
 
 ### Oatmeal Benefits
 
@@ -33,7 +33,7 @@ In oat flakes we can also find proteins, in 100g about 17g, vitamins - A, D, B5,
 
 <u>Coconut</u> – Coconut is an important source of calcium, fiber, contains abundant protein, which are important not only for strengthening muscles, but especially for brain activity. It contains a number of minerals and vitamins - iron, potassium, phosphorus, sodium, zinc, copper, manganese and B vitamins.
 
-![](/images/oatmeal-cookies/baked.png#center)
+![](/images/oatmeal-cookies/baked.jpg#center)
 
 **10 servings**
 

@@ -10,7 +10,7 @@ hovertitle: "Picture from: https://www.shutterstock.com/image-photo/cheese-on-wo
 ### <u> Cheese distribution: </u>
 The cheeses are sour and sweet. Sour cheeses are made by coagulating milk protein with lactic acid. Cottage cheese, for example, belongs to this group. The second group are sweet cheeses, which are the most common and are also called classic cheeses (I'll talk about this here). 
 ### <u> Distribution of sweet cheeses: </u>
-![](/images/sweet-cheeses/image.png#center)
+![](/images/sweet-cheeses/image.jpg#center)
 ### <u> A little closer to sweet cheeses: </u>
 They are made by enzymatic (sweet) coagulation of milk using the effects of rennet. It tastes like sweet milk. The cheese-making process takes 30 to 120 minutes.	
 ### 1) Fresh soft cheeses - unripened:

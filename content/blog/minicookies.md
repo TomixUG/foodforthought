@@ -4,7 +4,7 @@ title: "Oat-flakes minicookies"
 date: 2022-01-09
 description: "Recipe"
 tags: []
-thumbnail: "/thumbnails/minicookies.png"
+thumbnail: "/thumbnails/minicookies.jpg"
 ---
 ### <u>Ingredients:</u>
 - 100 g wholegrain flour 
@@ -29,4 +29,4 @@ thumbnail: "/thumbnails/minicookies.png"
 10. Let them bake for another 10 minutes.
 11. Now you can enjoy the excellent minicookies!
 
-![](/images/minicookies/pictures.png#center)
+![](/images/minicookies/pictures.jpg#center)
