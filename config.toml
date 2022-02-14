@@ -17,7 +17,7 @@ googleAnalytics = "G-B3GGKQLF6R"
   enableSearch = true
 
   # Custom copyright - optional
-  copyright = "Copyright © 2021 - Me"
+  copyright = "Copyright © 2022 - We"
   favicon = "favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
