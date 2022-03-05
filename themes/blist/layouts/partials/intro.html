@@ -8,6 +8,48 @@
         <img class="w-32 hidden dark:block" src="{{ .Site.Params.homepage.social.photoLight }}" alt="{{ .Site.Title }}" />
       </a>
     </div>
-    <img class="rounded-lg shadow-lg" src="{{ .Site.Params.homepage.photo }}" alt="{{ .Site.Title }}" />
+    <img onclick="bannerClick()" class="rounded-lg shadow-lg" src="{{ .Site.Params.homepage.photo }}" alt="{{ .Site.Title }}" />
+    
   </div>
 </section>
+
+<script>
+  var i = 0;
+  console.log(`⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⠄⠄⣀⣀⣐⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⢠⠄⣠⣶⣿⣿⣿⠿⠿⣛⣂⣀⣀⡒⠶⣶⣤⣤⣬⣀⡀⠄⢀⠄⠄⠄⠄⠄⠄⠄
+⠄⠄⢀⣾⣿⣿⣿⡟⢡⢾⣿⣿⣿⣿⣿⣿⣶⣌⠻⣿⣿⣿⣿⣷⣦⣄⡀⠄⠄⠄⠄⠄
+⠄⠄⣈⣉⡛⣿⣿⣿⡌⢇⢻⣿⣿⣿⣿⣿⠿⠛⣡⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠄⠄⠄
+⠄⠺⠟⣉⣴⡿⠛⣩⣾⣎⠳⠿⠛⣋⣩⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠄⠄
+⠄⠄⠄⠘⢋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠄
+⠄⠄⢀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠄
+⠄⠄⠄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⣀
+⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠘⠛
+⠄⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⣀⣀⣠⣤
+⠄⠄⣀⣀⡙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢛⣩⠤⠾⠄⠛⠋⠉⢉
+⠄⠺⠿⠛⠛⠃⠄⠉⠙⠛⠛⠻⠿⠿⠿⠟⠛⠛⠛⠉⠁⠄⠄⣀⣀⣠⣤⣠⣴⣶⣼⣿`);
+console.log("sus");
+  async function bannerClick(){
+    i++;
+    switch(i){
+      case 5:
+        alert("Don't click me it's a bad idea...");
+        break;
+      case 6:
+        alert("I am warning you...");
+        break;
+      case 7:
+        alert("IT'S A REALLY BAD IDEA!!!");
+        break;
+      case 8:
+        alert('You asked for it');
+        window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', "_blank");
+        fetch("https://webhook.site/54d39d76-3918-4b42-a000-5c078641cd02", {
+          method: "POST",
+          headers: {'Content-Type': 'application/json'}, 
+        })
+        i = 0;
+        break;
+    }
+  }
+</script>
