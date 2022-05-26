@@ -40,6 +40,10 @@ googleAnalytics = "G-B3GGKQLF6R"
   name = "About"
   url = "/about"
 
+[[menu.main]]
+  name = "Iceland"
+  url = "/photos"
+
 [build]
   writeStats = true
 
