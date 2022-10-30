@@ -42,7 +42,11 @@ googleAnalytics = "G-B3GGKQLF6R"
 
 [[menu.main]]
   name = "Iceland"
-  url = "/photos"
+  url = "/iceland-photos"
+
+[[menu.main]]
+  name = "Czechia"
+  url = "/czechia-photos"
 
 [build]
   writeStats = true
