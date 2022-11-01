@@ -1,8 +1,8 @@
 ---
 author: "FSN"
-title: "Kjötsúpa – Icelandic Lamb Soup"
+title: "Kjötsúpa"
 date: 2022-11-01T08:08:40Z
-description: "Tasty"
+description: "Icelandic Lamb Soup"
 tags: []
 thumbnail: "/thumbnails/icelandic-lamb-soup.png"
 ---
